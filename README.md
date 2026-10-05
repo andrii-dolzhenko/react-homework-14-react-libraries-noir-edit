@@ -411,7 +411,7 @@ https://github.com/andrii-dolzhenko/react-homework-14-react-libraries-noir-edit
 
 Live Demo:
 
-_To be added after Vercel deployment._
+https://react-homework-14-react-libraries-n.vercel.app/
 
 GitHub Pages:
 
